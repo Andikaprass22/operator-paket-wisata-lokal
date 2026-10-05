@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Ilustrasi Pink Beach dengan perahu dan air jernih</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16a3b8"/><stop offset="1" stop-color="#f4efe6"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd6e0"/><stop offset="1" stop-color="#0f5566"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <path d="M0 300 Q 180 220 360 300 L360 800 L0 800 Z" fill="#06282f"/>
+  <path d="M1200 260 Q 1010 190 820 280 L820 800 L1200 800 Z" fill="#0b3d4a"/>
+  <rect y="330" width="1200" height="470" fill="url(#sea)"/>
+  <g fill="none" stroke="#fbf8f2" stroke-width="3" opacity="0.3">
+    <path d="M0 420 Q 220 400 440 420 T 880 420 T 1200 420"/>
+    <path d="M0 520 Q 240 498 480 520 T 960 520 T 1200 520"/>
+  </g>
+  <path d="M0 700 Q 300 660 600 700 T 1200 690 L1200 800 L0 800 Z" fill="#ff6b4a" opacity="0.55"/>
+  <g transform="translate(420 470)">
+    <path d="M0 70 L210 70 L182 108 L28 108 Z" fill="#fbf8f2" opacity="0.92"/>
+    <rect x="100" y="0" width="7" height="72" fill="#fbf8f2" opacity="0.92"/>
+    <path d="M107 6 L172 26 L107 46 Z" fill="#ff6b4a"/>
+    <path d="M100 6 L40 26 L100 46 Z" fill="#e8542f"/>
+  </g>
+  <text x="42" y="766" font-family="system-ui, sans-serif" font-size="18" fill="#fbf8f2" opacity="0.7">Foto contoh</text>
+</svg>

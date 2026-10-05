@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Ilustrasi lanskap Gunung Rinjani saat matahari terbit</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06282f"/>
+      <stop offset="0.42" stop-color="#0f5566"/>
+      <stop offset="0.68" stop-color="#16a3b8"/>
+      <stop offset="0.86" stop-color="#7fd6e0"/>
+      <stop offset="1" stop-color="#f4efe6"/>
+    </linearGradient>
+    <linearGradient id="r1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f5566"/><stop offset="1" stop-color="#06282f"/>
+    </linearGradient>
+    <linearGradient id="r2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b3d4a"/><stop offset="1" stop-color="#06282f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="742" cy="352" r="152" fill="#ff6b4a" opacity="0.16"/>
+  <circle cx="742" cy="352" r="86" fill="#ff6b4a" opacity="0.92"/>
+  <g fill="none" stroke="#7fd6e0" stroke-width="2" opacity="0.2">
+    <path d="M-20 560 Q 300 512 620 552 T 1220 540"/>
+    <path d="M-20 600 Q 320 560 640 596 T 1220 586"/>
+    <path d="M-20 642 Q 340 610 660 640 T 1220 634"/>
+  </g>
+  <path d="M0 596 L150 512 L268 560 L392 470 L520 548 L660 452 L806 546 L930 486 L1060 552 L1200 500 L1200 800 L0 800 Z" fill="url(#r1)"/>
+  <path d="M0 660 L190 600 L330 648 L500 566 L640 640 L790 578 L950 646 L1200 596 L1200 800 L0 800 Z" fill="url(#r2)"/>
+  <g fill="#fbf8f2" opacity="0.12">
+    <path d="M0 726 Q 300 700 600 726 T 1200 726 L1200 800 L0 800 Z"/>
+  </g>
+  <text x="42" y="766" font-family="system-ui, sans-serif" font-size="18" fill="#fbf8f2" opacity="0.7">Foto contoh</text>
+</svg>

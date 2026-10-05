@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Ilustrasi air terjun Sendang Gile di tengah hutan</title>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b3d4a"/><stop offset="1" stop-color="#06282f"/>
+    </linearGradient>
+    <linearGradient id="fall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbf8f2"/><stop offset="1" stop-color="#7fd6e0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#wall)"/>
+  <g fill="#06282f" opacity="0.95">
+    <circle cx="90" cy="120" r="140"/><circle cx="300" cy="60" r="120"/>
+    <circle cx="1120" cy="130" r="150"/><circle cx="900" cy="60" r="120"/>
+  </g>
+  <g fill="#0f5566">
+    <rect y="240" width="1200" height="560"/>
+  </g>
+  <g fill="url(#fall)" opacity="0.95">
+    <rect x="500" y="230" width="70" height="440" rx="26"/>
+    <rect x="600" y="230" width="46" height="440" rx="20" opacity="0.8"/>
+    <rect x="660" y="250" width="30" height="420" rx="14" opacity="0.6"/>
+  </g>
+  <ellipse cx="600" cy="700" rx="280" ry="66" fill="#7fd6e0" opacity="0.5"/>
+  <g fill="#06282f">
+    <path d="M0 800 L0 640 Q 160 600 320 660 L360 800 Z"/>
+    <path d="M1200 800 L1200 630 Q 1030 596 860 656 L830 800 Z"/>
+  </g>
+  <text x="42" y="766" font-family="system-ui, sans-serif" font-size="18" fill="#fbf8f2" opacity="0.7">Foto contoh</text>
+</svg>

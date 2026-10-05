@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Potret siluet pemandu wisata lokal</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16a3b8"/><stop offset="1" stop-color="#0b3d4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="250" r="180" fill="#7fd6e0" opacity="0.25"/>
+  <g fill="#06282f">
+    <circle cx="300" cy="232" r="88"/>
+    <path d="M120 600 Q 150 400 300 400 Q 450 400 480 600 Z"/>
+  </g>
+  <g fill="#ff6b4a" opacity="0.9">
+    <path d="M300 400 L330 470 L300 540 L270 470 Z"/>
+  </g>
+  <text x="30" y="570" font-family="system-ui, sans-serif" font-size="18" fill="#fbf8f2" opacity="0.7">Foto contoh</text>
+</svg>

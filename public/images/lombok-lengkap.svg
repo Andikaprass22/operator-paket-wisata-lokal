@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Ilustrasi kolase empat wilayah Lombok dalam satu perjalanan</title>
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f5566"/><stop offset="1" stop-color="#06282f"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16a3b8"/><stop offset="1" stop-color="#0b3d4a"/>
+    </linearGradient>
+    <linearGradient id="c" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff6b4a"/><stop offset="1" stop-color="#0b3d4a"/>
+    </linearGradient>
+    <linearGradient id="d" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd6e0"/><stop offset="1" stop-color="#0f5566"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#06282f"/>
+  <g>
+    <rect x="24" y="24" width="566" height="366" fill="url(#a)"/>
+    <path d="M60 330 L180 240 L300 320 L420 210 L590 320 L590 390 L24 390 Z" fill="#06282f" opacity="0.85"/>
+    <text x="56" y="80" font-family="system-ui, sans-serif" font-size="30" fill="#fbf8f2" opacity="0.85">01 Gunung</text>
+  </g>
+  <g>
+    <rect x="610" y="24" width="566" height="366" fill="url(#b)"/>
+    <g fill="none" stroke="#fbf8f2" stroke-width="3" opacity="0.3">
+      <path d="M610 160 Q 760 140 900 160 T 1176 160"/>
+      <path d="M610 240 Q 780 216 950 240 T 1176 240"/>
+    </g>
+    <text x="642" y="80" font-family="system-ui, sans-serif" font-size="30" fill="#fbf8f2" opacity="0.85">02 Bahari</text>
+  </g>
+  <g>
+    <rect x="24" y="410" width="566" height="366" fill="url(#c)"/>
+    <circle cx="300" cy="520" r="60" fill="#fbf8f2" opacity="0.7"/>
+    <text x="56" y="466" font-family="system-ui, sans-serif" font-size="30" fill="#fbf8f2" opacity="0.85">03 Budaya</text>
+  </g>
+  <g>
+    <rect x="610" y="410" width="566" height="366" fill="url(#d)"/>
+    <path d="M610 700 Q 780 620 950 690 T 1176 660 L1176 776 L610 776 Z" fill="#06282f" opacity="0.8"/>
+    <text x="642" y="466" font-family="system-ui, sans-serif" font-size="30" fill="#fbf8f2" opacity="0.85">04 Pantai</text>
+  </g>
+  <text x="42" y="790" font-family="system-ui, sans-serif" font-size="18" fill="#fbf8f2" opacity="0.7">Foto contoh</text>
+</svg>

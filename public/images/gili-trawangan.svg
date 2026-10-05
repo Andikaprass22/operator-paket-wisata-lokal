@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="t">
+  <title id="t">Ilustrasi perairan dangkal Gili Trawangan</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b3d4a"/><stop offset="0.6" stop-color="#16a3b8"/><stop offset="1" stop-color="#7fd6e0"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fd6e0"/><stop offset="0.5" stop-color="#16a3b8"/><stop offset="1" stop-color="#0b3d4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#sky)"/>
+  <circle cx="330" cy="200" r="70" fill="#fbf8f2" opacity="0.9"/>
+  <rect y="380" width="1200" height="420" fill="url(#sea)"/>
+  <path d="M690 380 Q 780 300 880 380 Z" fill="#0f5566" opacity="0.9"/>
+  <g fill="none" stroke="#fbf8f2" stroke-width="3" opacity="0.35">
+    <path d="M0 470 Q 200 452 400 470 T 800 470 T 1200 470"/>
+    <path d="M0 540 Q 220 520 440 540 T 880 540 T 1200 540"/>
+    <path d="M0 616 Q 240 594 480 616 T 960 616 T 1200 616"/>
+  </g>
+  <g fill="#06282f" opacity="0.85">
+    <path d="M60 200 q 30 -90 62 0 z"/>
+    <path d="M120 214 q 34 -74 66 6 z" opacity="0.7"/>
+  </g>
+  <g transform="translate(880 470)">
+    <path d="M0 60 L150 60 L128 96 L22 96 Z" fill="#f4efe6" opacity="0.9"/>
+    <rect x="70" y="0" width="6" height="62" fill="#f4efe6" opacity="0.9"/>
+    <path d="M76 4 L128 22 L76 40 Z" fill="#ff6b4a" opacity="0.85"/>
+  </g>
+  <text x="42" y="766" font-family="system-ui, sans-serif" font-size="18" fill="#fbf8f2" opacity="0.7">Foto contoh</text>
+</svg>
